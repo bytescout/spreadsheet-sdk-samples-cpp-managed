@@ -1,4 +1,0 @@
-## Index of source code examples
-
-
-\HelloWorld
